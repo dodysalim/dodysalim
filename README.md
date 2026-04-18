@@ -84,8 +84,6 @@ Me apasiona transformar datos crudos en decisiones estrategicas de negocio.
 
 - **Soy Henry** — Data Science Bootcamp Intensivo Full-Time (+700 horas)
 - **No Country** — 3 Simulaciones Laborales en Data Science (Data Analyst & Data Scientist)
-- **Universidad de Guayaquil** — Ingenieria de la Produccion
-
 ---
 
 <p align="center">
