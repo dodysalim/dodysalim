@@ -17,7 +17,7 @@
 
 ### Sobre mi
 
-Soy un profesional de datos egresado del bootcamp intensivo de **Soy Henry** con experiencia en 3 simulaciones laborales en **No Country**. Me especializo en construir soluciones end-to-end de Machine Learning: desde la ingesta y limpieza de datos hasta modelos predictivos desplegados en produccion con dashboards interactivos.
+Soy un profesional de datos egresado del bootcamp intensivo de **Henry** con experiencia en 3 simulaciones laborales en **No Country**. Me especializo en construir soluciones end-to-end de Machine Learning: desde la ingesta y limpieza de datos hasta modelos predictivos desplegados en produccion con dashboards interactivos.
 
 Me apasiona transformar datos crudos en decisiones estrategicas de negocio.
 
