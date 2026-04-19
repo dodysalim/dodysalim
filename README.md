@@ -89,5 +89,5 @@ Me apasiona transformar datos crudos en decisiones estrategicas de negocio.
 <p align="center">
   <i>Abierto a oportunidades como Data Analyst, Data Scientist, Data Engineer o ML Engineer</i>
   <br/>
-  <i>Guayaquil, Ecuador | Remoto</i>
+  <i>Babahoyo, Ecuador | Remoto</i>
 </p>
