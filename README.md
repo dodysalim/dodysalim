@@ -82,7 +82,7 @@ Me apasiona transformar datos crudos en decisiones estrategicas de negocio.
 
 ### Formacion
 
-- **Soy Henry** — Data Science Bootcamp Intensivo Full-Time (+700 horas)
+- **Soy Henry** — Data Science Bootcamp Intensivo Full-Time (+480 horas)
 - **No Country** — 3 Simulaciones Laborales en Data Science (Data Analyst & Data Scientist)
 ---
 
