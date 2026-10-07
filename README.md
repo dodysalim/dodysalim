@@ -10,12 +10,13 @@
 
 Soy **Dody Dueñas Remache**, un perfil junior de **Análisis y Ciencia de Datos** en Ecuador. Uso **Python, SQL y Power BI** para limpiar datos, construir modelos dimensionales, crear dashboards y evaluar modelos predictivos.
 
-**Busco oportunidades junior en Guayaquil o remotas desde Ecuador.** Mi experiencia práctica proviene de proyectos de formación en **Henry**, simulaciones colaborativas en **No Country** y proyectos personales.
+**Busco oportunidades junior presenciales en Guayaquil o remotas en Ecuador y Latinoamérica.** Mi experiencia práctica proviene de proyectos de formación en **Henry**, simulaciones colaborativas en **No Country** y proyectos personales.
 
 ## Proyectos para conocer mi trabajo
 
 | Proyecto | Problema y trabajo que puedes revisar | Stack |
 | :--- | :--- | :--- |
+| [Churn bancario](https://github.com/dodysalim/churn-prediction-financeguard) · Henry M4 | Predicción de fuga de 10,000 clientes: 7 modelos (AUC 0.87), segmentación K-Means y umbral de decisión optimizado por costos. | scikit-learn · XGBoost · CatBoost |
 | [FleetLogix](https://github.com/dodysalim/FleetLogix-Master) · Henry | Datos sintéticos de logística: generadores, ETL, modelo relacional y consultas de indicadores. | Python · PostgreSQL · Snowflake |
 | [Cliente360](https://github.com/dodysalim/Cliente360-Predictive-Insight) · Henry | Segmentación de clientes: preparación de datos, clustering y reporte ejecutivo. | pandas · scikit-learn |
 | [Riesgo crediticio](https://github.com/dodysalim/Proyecto_Integrador_M5) · Henry | Análisis de riesgo: características, modelos y documentación de evaluación. | Python · ML |
@@ -45,4 +46,4 @@ Los proyectos conservan su contexto académico o de simulación y la atribución
 
 I work with **Python, SQL and Power BI** to clean data, build dimensional models, develop dashboards and evaluate predictive models. My practical experience includes **Henry coursework**, **No Country team simulations** and personal projects.
 
-I am seeking **junior opportunities in Guayaquil or remote roles from Ecuador**. Explore my [bilingual portfolio](https://dodysalim.github.io/xd/portfolio/) for project cases, repositories and an interactive analytics example.
+I am seeking **junior opportunities on-site in Guayaquil or remote roles across Ecuador and Latin America**. Explore my [bilingual portfolio](https://dodysalim.github.io/xd/portfolio/) for project cases, repositories and an interactive analytics example.
