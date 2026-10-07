@@ -30,7 +30,7 @@ Los proyectos académicos y las simulaciones se presentan con su contexto y atri
 
 - [GitHub](https://github.com/dodysalim)
 - [Correo](mailto:dodydurema67@gmail.com)
-- [Portafolio](https://dody-data-portfolio.dodydurema67.chatgpt.site)
+- [Portafolio](https://dodysalim.github.io/xd/portfolio/)
 
 ## English
 
