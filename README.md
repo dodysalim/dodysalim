@@ -1,7 +1,7 @@
-<p align="center"><img src="https://raw.githubusercontent.com/dodysalim/xd/main/profile-assets/banner.svg" alt="Dody Dueñas Remache — Junior Data Analyst / Data Scientist" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/dodysalim/dodysalim/main/assets/banner.svg" alt="Dody Dueñas Remache — Junior Data Analyst / Data Scientist" width="100%"></p>
 
 <p align="center">
-<a href="https://dodysalim.github.io/xd/portfolio/"><strong>🌐 Explorar mi portafolio</strong></a> ·
+<a href="https://dodysalim.github.io/"><strong>🌐 Explorar mi portafolio</strong></a> ·
 <a href="mailto:dodydurema67@gmail.com"><strong>✉️ Contacto</strong></a> ·
 <a href="#english">English</a>
 </p>
@@ -25,7 +25,7 @@ Soy **Dody Dueñas Remache**, un perfil junior de **Análisis y Ciencia de Datos
 | [LatAm Insights](https://github.com/dodysalim/Proyecto-No-Country) · No Country | Procesamiento y visualización de vacantes y habilidades del mercado laboral. | Python · SQL · Supabase |
 | [KrioMetrics](https://github.com/dodysalim/refrigerant-gas-dashboard) · Personal | ETL y comparación de propiedades de refrigerantes; código, datos y pruebas disponibles. | Python · SQLite · Streamlit |
 
-**[Ver todos los casos y el análisis interactivo →](https://dodysalim.github.io/xd/portfolio/)**
+**[Ver todos los casos y el análisis interactivo →](https://dodysalim.github.io/)**
 
 ## Qué puedo aportar en un puesto junior
 
@@ -38,7 +38,7 @@ Los proyectos conservan su contexto académico o de simulación y la atribución
 
 ## Contacto
 
-**[Portafolio](https://dodysalim.github.io/xd/portfolio/)** · **[dodydurema67@gmail.com](mailto:dodydurema67@gmail.com)**
+**[Portafolio](https://dodysalim.github.io/)** · **[dodydurema67@gmail.com](mailto:dodydurema67@gmail.com)**
 
 ## English
 
@@ -46,4 +46,4 @@ Los proyectos conservan su contexto académico o de simulación y la atribución
 
 I work with **Python, SQL and Power BI** to clean data, build dimensional models, develop dashboards and evaluate predictive models. My practical experience includes **Henry coursework**, **No Country team simulations** and personal projects.
 
-I am seeking **junior opportunities on-site in Guayaquil or remote roles across Ecuador and Latin America**. Explore my [bilingual portfolio](https://dodysalim.github.io/xd/portfolio/) for project cases, repositories and an interactive analytics example.
+I am seeking **junior opportunities on-site in Guayaquil or remote roles across Ecuador and Latin America**. Explore my [bilingual portfolio](https://dodysalim.github.io/) for project cases, repositories and an interactive analytics example.
