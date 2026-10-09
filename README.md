@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/dodysalim/dodysalim/main/assets/banner.svg" alt="Dody Dueñas Remache — Junior Data Analyst / Data Scientist" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/dodysalim/dodysalim/main/assets/banner.svg" alt="Dody Dueñas Remache — Analista de Datos y Business Intelligence" width="100%"></p>
 
 <p align="center">
 <a href="https://dodysalim.github.io/"><strong>🌐 Explorar mi portafolio</strong></a> ·
@@ -6,11 +6,30 @@
 <a href="#english">English</a>
 </p>
 
-## Datos claros. Decisiones con criterio.
+## Analista de Datos · Business Intelligence
 
-Soy **Dody Dueñas Remache**, un perfil junior de **Análisis y Ciencia de Datos** en Ecuador. Uso **Python, SQL y Power BI** para limpiar datos, construir modelos dimensionales, crear dashboards y evaluar modelos predictivos.
+**Python · SQL · Power BI · Machine Learning**  
+**Guayaquil, Ecuador · Disponible para trabajo presencial y remoto en LATAM**
 
-**Busco oportunidades junior presenciales en Guayaquil o remotas en Ecuador y Latinoamérica.** Mi experiencia práctica proviene de proyectos de formación en **Henry**, simulaciones colaborativas en **No Country** y proyectos personales.
+Soy **Dody Dueñas Remache**, analista de datos junior. Transformo datos en indicadores, dashboards y análisis que ayudan a comprender problemas de negocio. Trabajo con **Python, SQL y Power BI**, y desarrollo proyectos de **machine learning** con evaluación y documentación de resultados.
+
+Mi experiencia práctica incluye **cinco proyectos de formación en Henry**, **cuatro proyectos colaborativos de No Country** y proyectos personales. Busco mi primera oportunidad profesional en análisis de datos o Business Intelligence, con interés en seguir creciendo en ciencia de datos.
+
+### Tecnologías con las que trabajo
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL_%C2%B7_PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL y PostgreSQL">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&amp;logoColor=black" alt="Power BI">
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="pandas">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&amp;logo=supabase&amp;logoColor=black" alt="Supabase">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git">
+</p>
+
+**Business Intelligence:** Power Query · DAX · modelos dimensionales.  
+**Machine Learning:** scikit-learn · XGBoost · evaluación de modelos.
 
 ## Proyectos para conocer mi trabajo
 
@@ -58,7 +77,7 @@ Los proyectos conservan su contexto académico o de simulación y la atribución
 
 ## English
 
-**Junior Data Analyst / Data Scientist · Ecuador**
+**Junior Data Analyst · Business Intelligence · Ecuador**
 
 I work with **Python, SQL and Power BI** to clean data, build dimensional models, develop dashboards and evaluate predictive models. My practical experience includes **Henry coursework**, **No Country team simulations** and personal projects.
 
