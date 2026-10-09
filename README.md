@@ -35,24 +35,24 @@ Mi experiencia práctica incluye **cinco proyectos de formación en Henry**, **c
 
 ### No Country · 4 proyectos colaborativos
 
-| Proyecto | Enfoque y tecnologías | Showcase oficial |
-| :--- | :--- | :--- |
-| [ConversaAI](https://github.com/dodysalim/ConversaAI-NLP-Support-Analytics) | Sentimiento e intención en conversaciones de soporte. **Python · NLP · XLM-R · Streamlit** | [Abril 2026 ↗](https://nocountry.tech/showcase/simulacion-laboral-abril-2026/equipo-40-data-science) |
-| [Churn Intelligence](https://github.com/dodysalim/-E-commerce-Churn-Model-S03-26-Equipo-40-Data-Science) | Abandono en e-commerce, segmentación RFM y dashboard. **XGBoost · Streamlit · Supabase** | [Marzo 2026 ↗](https://nocountry.tech/showcase/simulacion-laboral-marzo-2026/equipo-40-data-science) |
-| [EquineLead](https://github.com/dodysalim/S02-26-E45-Data_Science_EquineLead) | Audiencias y oportunidades comerciales en el mercado ecuestre. Rol documentado: **Data Analyst**. **Python · Streamlit** | [Febrero 2026 ↗](https://nocountry.tech/showcase/simulacion-laboral-febrero-2026/equipo-45-data-science) |
-| [Market Scraper · LatAm Insights](https://github.com/dodysalim/Proyecto-No-Country) | Procesamiento de vacantes y análisis de habilidades. **Python · SQL · Supabase** | [Noviembre 2025 ↗](https://nocountry.tech/showcase/simulacion-laboral-noviembre-2025/equipo-27-datascience) |
+| Nº | Proyecto | Enfoque y tecnologías | Showcase oficial |
+| :---: | :--- | :--- | :--- |
+| 1 | [Market Scraper · LatAm Insights](https://github.com/dodysalim/Proyecto-No-Country) | Procesamiento de vacantes y análisis de habilidades. **Python · SQL · Supabase** | [Noviembre 2025 ↗](https://nocountry.tech/showcase/simulacion-laboral-noviembre-2025/equipo-27-datascience) |
+| 2 | [EquineLead](https://github.com/dodysalim/S02-26-E45-Data_Science_EquineLead) | Audiencias y oportunidades comerciales en el mercado ecuestre. Rol documentado: **Data Analyst**. **Python · Streamlit** | [Febrero 2026 ↗](https://nocountry.tech/showcase/simulacion-laboral-febrero-2026/equipo-45-data-science) |
+| 3 | [Churn Intelligence](https://github.com/dodysalim/-E-commerce-Churn-Model-S03-26-Equipo-40-Data-Science) | Abandono en e-commerce, segmentación RFM y dashboard. **XGBoost · Streamlit · Supabase** | [Marzo 2026 ↗](https://nocountry.tech/showcase/simulacion-laboral-marzo-2026/equipo-40-data-science) |
+| 4 | [ConversaAI](https://github.com/dodysalim/ConversaAI-NLP-Support-Analytics) | Sentimiento e intención en conversaciones de soporte. **Python · NLP · XLM-R · Streamlit** | [Abril 2026 ↗](https://nocountry.tech/showcase/simulacion-laboral-abril-2026/equipo-40-data-science) |
 
 Los README y el portafolio incluyen los integrantes y sus roles.
 
 ### Henry · 5 proyectos de formación
 
-| Proyecto | Trabajo que puedes revisar | Stack |
-| :--- | :--- | :--- |
-| [FleetLogix](https://github.com/dodysalim/FleetLogix-Master) · M2 | Datos sintéticos de logística, ETL, modelo relacional e indicadores. | Python · PostgreSQL · Snowflake |
-| [TechCore · Ventas](https://github.com/dodysalim/dodysalim.github.io/tree/main/projects/techcore-sales-powerbi) · M3 | Caso académico de ventas, modelado y documentación del análisis. | Python · Power BI · DAX |
-| M4 · [HealthPredict](https://github.com/dodysalim/dodysalim.github.io/tree/main/projects/healthpredict) y [FinanceGuard](https://github.com/dodysalim/churn-prediction-financeguard) | Dos trabajos del módulo: clasificación por paciente y churn bancario de 10.000 clientes. | scikit-learn · XGBoost · Power BI |
-| [Cliente360](https://github.com/dodysalim/Cliente360-Predictive-Insight) | Preparación de datos, segmentación y reporte ejecutivo de clientes. | pandas · scikit-learn |
-| [Riesgo crediticio](https://github.com/dodysalim/Proyecto_Integrador_M5) · M5 | Características, modelos y documentación de evaluación del riesgo. | Python · Machine Learning |
+| Nº | Proyecto | Trabajo que puedes revisar | Stack |
+| :---: | :--- | :--- | :--- |
+| 1 | [FleetLogix](https://github.com/dodysalim/FleetLogix-Master) · M2 | Datos sintéticos de logística, ETL, modelo relacional e indicadores. | Python · PostgreSQL · Snowflake |
+| 2 | [TechCore · Ventas](https://github.com/dodysalim/dodysalim.github.io/tree/main/projects/techcore-sales-powerbi) · M3 | Caso académico de ventas, modelado y documentación del análisis. | Python · Power BI · DAX |
+| 3 | M4 · [HealthPredict](https://github.com/dodysalim/dodysalim.github.io/tree/main/projects/healthpredict) y [FinanceGuard](https://github.com/dodysalim/churn-prediction-financeguard) | Dos trabajos del módulo: clasificación por paciente y churn bancario de 10.000 clientes. | scikit-learn · XGBoost · Power BI |
+| 4 | [Cliente360](https://github.com/dodysalim/Cliente360-Predictive-Insight) | Preparación de datos, segmentación y reporte ejecutivo de clientes. | pandas · scikit-learn |
+| 5 | [Riesgo crediticio](https://github.com/dodysalim/Proyecto_Integrador_M5) · M5 | Características, modelos y documentación de evaluación del riesgo. | Python · Machine Learning |
 
 ### Proyectos personales
 
