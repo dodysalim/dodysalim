@@ -37,7 +37,9 @@ Los README y el portafolio incluyen los integrantes y sus roles.
 
 ### Proyectos personales
 
-**[KrioMetrics](https://github.com/dodysalim/refrigerant-gas-dashboard)** — ETL y comparación de propiedades de refrigerantes con **Python, SQLite y Streamlit**. Código, datos y pruebas disponibles.
+| Proyecto | Trabajo que puedes revisar | Stack |
+| :--- | :--- | :--- |
+| [KrioMetrics](https://github.com/dodysalim/refrigerant-gas-dashboard) | ETL y comparación de propiedades de refrigerantes; código, datos y pruebas disponibles. | Python · SQLite · Streamlit |
 
 **[Explorar todos los proyectos y el análisis interactivo →](https://dodysalim.github.io/)**
 
