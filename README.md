@@ -58,10 +58,10 @@ Los README y el portafolio incluyen los integrantes y sus roles.
 
 | Nº | Proyecto | Trabajo que puedes revisar | Stack |
 | :---: | :--- | :--- | :--- |
-| 1 | [Bank Transactions](https://github.com/dodysalim/dodysalim.github.io/tree/main/projects/bank-transactions-powerbi) | Agregados de transacciones por fecha, sector y ubicación; caso y vista interactiva. | Power BI · Power Query · DAX |
-| 2 | [Analytics Toolkit](https://github.com/dodysalim/data-science-analytics-toolkit) | Módulos reutilizables de calidad, análisis y visualización de datos. | Python · SQL · Streamlit |
-| 3 | [KrioMetrics](https://github.com/dodysalim/refrigerant-gas-dashboard) | ETL y comparación de propiedades de refrigerantes; código, datos y pruebas disponibles. | Python · SQLite · Streamlit |
-| 4 | [Simpson 1/3](https://github.com/dodysalim/Simpson-13-Dashboard-Excel) | Integración numérica con libro Excel y código VBA documentado. | Excel · VBA · Cálculo |
+| 1 | [Simpson 1/3](https://github.com/dodysalim/Simpson-13-Dashboard-Excel) | Integración numérica con libro Excel y código VBA documentado. | Excel · VBA · Cálculo |
+| 2 | [KrioMetrics](https://github.com/dodysalim/refrigerant-gas-dashboard) | ETL y comparación de propiedades de refrigerantes; código, datos y pruebas disponibles. | Python · SQLite · Streamlit |
+| 3 | [Analytics Toolkit](https://github.com/dodysalim/data-science-analytics-toolkit) | Módulos reutilizables de calidad, análisis y visualización de datos. | Python · SQL · Streamlit |
+| 4 | [Bank Transactions](https://github.com/dodysalim/dodysalim.github.io/tree/main/projects/bank-transactions-powerbi) | Agregados de transacciones por fecha, sector y ubicación; caso y vista interactiva. | Power BI · Power Query · DAX |
 
 **[Explorar todos los proyectos y el análisis interactivo →](https://dodysalim.github.io/)**
 
