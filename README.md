@@ -27,6 +27,17 @@ Soy **Dody Dueñas Remache**, un perfil junior de **Análisis y Ciencia de Datos
 
 **[Ver todos los casos y el análisis interactivo →](https://dodysalim.github.io/)**
 
+## No Country · 4 proyectos colaborativos (2025–2026)
+
+Cada caso enlaza al trabajo publicado y a su showcase oficial. Los integrantes y roles están acreditados en el README de cada proyecto y en los detalles del portafolio.
+
+| Edición | Proyecto | Evidencia oficial |
+| --- | --- | --- |
+| Noviembre 2025 | [LatAm Insights / Market Scraper](https://github.com/dodysalim/Proyecto-No-Country) | [No Country Showcase](https://nocountry.tech/showcase/simulacion-laboral-noviembre-2025/equipo-27-datascience) |
+| Febrero 2026 | [EquineLead](https://github.com/dodysalim/S02-26-E45-Data_Science_EquineLead) | [No Country Showcase](https://nocountry.tech/showcase/simulacion-laboral-febrero-2026/equipo-45-data-science) |
+| Marzo 2026 | [Churn Intelligence / E-commerce Churn Model](https://github.com/dodysalim/-E-commerce-Churn-Model-S03-26-Equipo-40-Data-Science) | [No Country Showcase](https://nocountry.tech/showcase/simulacion-laboral-marzo-2026/equipo-40-data-science) |
+| Abril 2026 | [ConversaAI](https://github.com/dodysalim/ConversaAI-NLP-Support-Analytics) | [No Country Showcase](https://nocountry.tech/showcase/simulacion-laboral-abril-2026/equipo-40-data-science) |
+
 ## Qué puedo aportar en un puesto junior
 
 - **Análisis:** limpieza de datos, consultas SQL, exploración y controles de calidad.
