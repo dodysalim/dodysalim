@@ -6,6 +6,18 @@
 <a href="#english">English</a>
 </p>
 
+<p align="center">
+<a href="https://dodysalim.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=75E6CE&center=true&vCenter=true&width=640&lines=Analista+de+Datos+%C2%B7+Business+Intelligence;Python+%C2%B7+SQL+%C2%B7+Power+BI;Machine+Learning+%C2%B7+NLP;Guayaquil%2C+Ecuador+%C2%B7+Remoto+LATAM" alt="Analista de Datos · Python · SQL · Power BI"></a>
+</p>
+
+<p align="center">
+<a href="https://dodysalim.github.io/"><img src="https://img.shields.io/badge/Portafolio-75E6CE?style=for-the-badge&logo=githubpages&logoColor=08151c" alt="Portafolio"></a>
+<a href="https://www.linkedin.com/in/dody-duenas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:dodydurema67@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://dodysalim.github.io/assets/Dody_Duenas_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-8F7BFF?style=for-the-badge" alt="CV"></a>
+<img src="https://komarev.com/ghpvc/?username=dodysalim&color=75e6ce&style=for-the-badge&label=visitas" alt="Visitas">
+</p>
+
 ## Analista de Datos · Business Intelligence
 
 **Python · SQL · Power BI · Machine Learning**  
@@ -30,6 +42,16 @@ Mi experiencia práctica incluye **cinco proyectos de formación en Henry**, **c
 
 **Business Intelligence:** Power Query · DAX · modelos dimensionales.  
 **Machine Learning:** scikit-learn · XGBoost · evaluación de modelos.
+
+## ⭐ Destacados
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/dodysalim/Cliente360-Predictive-Insight"><img src="https://dodysalim.github.io/assets/project-covers/cliente360.webp" alt="Cliente360"></a><br><b>Cliente360</b><br><sub>Segmentación y analítica de clientes · pandas · scikit-learn</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/dodysalim/refrigerant-gas-dashboard"><img src="https://dodysalim.github.io/assets/project-covers/kriometrics.webp" alt="KrioMetrics"></a><br><b>KrioMetrics</b><br><sub>ETL + SQLite de 55 refrigerantes · 54 pruebas · Streamlit</sub></td>
+<td width="33%" valign="top"><a href="https://github.com/dodysalim/ConversaAI-NLP-Support-Analytics"><img src="https://dodysalim.github.io/assets/project-covers/conversaai.webp" alt="ConversaAI"></a><br><b>ConversaAI</b><br><sub>NLP de sentimiento e intención ES/PT · XLM-R · equipo No Country</sub></td>
+</tr>
+</table>
 
 ## Proyectos para conocer mi trabajo
 
@@ -73,6 +95,15 @@ Los README y el portafolio incluyen los integrantes y sus roles.
 - **Trabajo reproducible:** Git, notebooks, documentación y aplicaciones con Streamlit.
 
 Los proyectos conservan su contexto académico o de simulación y la atribución de los equipos. Las métricas de modelos se interpretan junto con su metodología de evaluación.
+
+
+## 📊 Actividad en GitHub
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dodysalim&show_icons=true&hide_border=true&theme=tokyonight&title_color=75e6ce&icon_color=75e6ce" alt="Estadísticas de GitHub">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodysalim&layout=compact&hide_border=true&theme=tokyonight&title_color=75e6ce" alt="Lenguajes más usados">
+</p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dodysalim&hide_border=true&theme=tokyonight&ring=75e6ce&fire=75e6ce&currStreakLabel=75e6ce" alt="Racha de contribuciones"></p>
 
 ## Contacto
 
