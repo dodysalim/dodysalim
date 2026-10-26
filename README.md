@@ -36,7 +36,7 @@ Soy **Dody Dueñas Remache**, analista de datos y data scientist junior en **Gua
 - **13** proyectos publicados
 - **4** simulaciones laborales en equipo (No Country)
 - **5** proyectos integradores (Henry)
-- **60+** pruebas automatizadas · **1M+** registros analizados
+- **150+** pruebas automatizadas · **1M+** registros analizados
 
 </td>
 </tr>
@@ -128,7 +128,7 @@ Simulaciones laborales con equipos multidisciplinarios y entrega a demo day.
 
 **Junior Data Analyst / Data Scientist · Guayaquil, Ecuador · Open to remote (LATAM)**
 
-I turn data into **Power BI dashboards, ETL pipelines and explainable machine learning models** using **Python, SQL and Power BI**. My portfolio includes **13 projects**: 4 team simulations at No Country, 5 Henry capstones and personal projects, with **60+ automated tests** and **1M+ records analyzed**.
+I turn data into **Power BI dashboards, ETL pipelines and explainable machine learning models** using **Python, SQL and Power BI**. My portfolio includes **13 projects**: 4 team simulations at No Country, 5 Henry capstones and personal projects, with **150+ automated tests** and **1M+ records analyzed**.
 
 👉 Explore the [bilingual portfolio](https://dodysalim.github.io/) for case studies, repositories and a live analytics demo.
 
